@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApiAnimais</string>
+    <string-array name="finalidade_options">
+        <item>A</item>
+        <item>D</item>
+    </string-array>
+</resources>
